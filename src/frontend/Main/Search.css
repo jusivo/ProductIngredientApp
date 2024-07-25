@@ -1,0 +1,7 @@
+.search_comp{
+    display: flex;
+    background-color: aqua;
+    height: 6vh;
+    font-size: 3vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
