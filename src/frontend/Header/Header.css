@@ -1,0 +1,16 @@
+.headerCont{
+    display: flex;
+    background-color: #494444;
+    height: 10vh;
+    color: white;
+    flex-direction: row;
+    align-items: center;
+}
+img{
+    margin-left: 2vh;
+width: 10%;
+gap: 2px;
+
+    height: 20%;
+}
+

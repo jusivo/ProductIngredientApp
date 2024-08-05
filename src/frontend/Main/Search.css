@@ -5,3 +5,26 @@
     font-size: 3vh;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+.cardComponent :hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+
+}
+.searchBar{
+    width: 50%;
+}
+.searchDiv{
+    flex-direction: row;
+    color: black;
+    width: 50%;
+    display: flex;
+    height: 5vh;
+    gap: 12px;
+    
+}
+.searchDiv:hover{
+    background-color: lightgray;
+}
+.tableAlign{
+    text-align: center;
+    margin-top: 2vh;
+}
